@@ -1,0 +1,35 @@
+commit 87e16172ef0a922a644a9895f19b907ff7453384
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Mar 28 10:55:11 2017 -0700
+
+    Imagen de git
+
+commit bb36bfb110036df2b785f395471206c1bf90b485
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Mar 28 10:52:01 2017 -0700
+
+    Footer
+
+commit 28e2b22f1ed681c37546e0b2e3cb056f13326269
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Mar 28 10:49:09 2017 -0700
+
+    Integracion de tabla de datos
+
+commit 3fcc95e908c7099c35dd504a3229250e97d146d6
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Mar 28 10:41:24 2017 -0700
+
+    Titulo del proyecto
+
+commit 07460dfb6bd209766a1b934df4d86a4bd66749d9
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Mar 28 10:34:38 2017 -0700
+
+    Estrutura inicial del proyecto
+
+commit 74d559267cac1d548dfebf2e8557d8c2ba4a2bcd
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Mon Mar 27 10:57:42 2017 -0700
+
+    Proyeto en blanco
